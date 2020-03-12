@@ -18,3 +18,8 @@ A:\elab\ms\wecanchat\obj\Debug\netcoreapp2.1\wecanchat.AssemblyInfo.cs
 A:\elab\ms\wecanchat\obj\Debug\netcoreapp2.1\wecanchat.RazorTargetAssemblyInfo.cache
 A:\elab\ms\wecanchat\obj\Debug\netcoreapp2.1\wecanchat.dll
 A:\elab\ms\wecanchat\obj\Debug\netcoreapp2.1\wecanchat.pdb
+A:\elab\ms\wecanchat\bin\Debug\netcoreapp2.1\adaptiveCard.json
+A:\elab\ms\wecanchat\bin\Debug\netcoreapp2.1\card.json
+A:\elab\ms\wecanchat\bin\Debug\netcoreapp2.1\CognitiveModels\FlightBooking.json
+A:\elab\ms\wecanchat\bin\Debug\netcoreapp2.1\Cards\welcomeCard.json
+A:\elab\ms\wecanchat\bin\Debug\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json

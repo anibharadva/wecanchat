@@ -1,0 +1,25 @@
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\appsettings.Development.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\appsettings.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\wecanchat.deps.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\wecanchat.runtimeconfig.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\wecanchat.runtimeconfig.dev.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\wecanchat.dll
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\wecanchat.pdb
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.csprojAssemblyReference.cache
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.RazorAssemblyInfo.cache
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.RazorAssemblyInfo.cs
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.AssemblyInfoInputs.cache
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.AssemblyInfo.cs
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.RazorTargetAssemblyInfo.cache
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.dll
+A:\elab\ms\wecanchat\obj\Release\netcoreapp2.1\wecanchat.pdb
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\CognitiveModels\FlightBooking.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\Connected Services\Application Insights\ConnectedService.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\Cards\welcomeCard.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\adaptiveCard.json
+A:\elab\ms\wecanchat\bin\Release\netcoreapp2.1\card.json
